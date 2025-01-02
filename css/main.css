@@ -264,8 +264,8 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
     about-us Start
 --*/
 #about-us {
-  padding: 100px 0px;
-  background: #F6F6F6;
+  padding: 25px 40px;
+  background: #eeeeee;
 }
 #about-us .block {
   text-align: center;
@@ -274,7 +274,7 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
   color: #959595;
   font-size: 16px;
   line-height: 26px;
-  padding: 40px 0px;
+  padding: 30px 0px;
 }
 /*--
     blog Start
@@ -492,7 +492,7 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
 #subscribe {
   padding: 100px 0px;
   text-align: center;
-  background: url("../images/subscribe-bg.jpg");
+  background: url("../images/map-bg.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
